@@ -1,0 +1,12 @@
+/Users/jonathan/Projects/OwinTest/OwinCore/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jonathan/Projects/OwinTest/OwinCore/bin/Debug/static/main.js
+/Users/jonathan/Projects/OwinTest/OwinCore/bin/Debug/OwinCore.dll.mdb
+/Users/jonathan/Projects/OwinTest/OwinCore/bin/Debug/OwinCore.dll
+/Users/jonathan/Projects/OwinTest/OwinCore/obj/Debug/OwinCore.dll
+/Users/jonathan/Projects/OwinTest/OwinCore/obj/Debug/OwinCore.dll.mdb
+/Users/jonathan/Projects/OwinTest/OwinCore/bin/Debug/Microsoft.Owin.dll
+/Users/jonathan/Projects/OwinTest/OwinCore/bin/Debug/Microsoft.Owin.FileSystems.dll
+/Users/jonathan/Projects/OwinTest/OwinCore/bin/Debug/Microsoft.Owin.StaticFiles.dll
+/Users/jonathan/Projects/OwinTest/OwinCore/bin/Debug/Nancy.dll
+/Users/jonathan/Projects/OwinTest/OwinCore/bin/Debug/Nancy.Owin.dll
+/Users/jonathan/Projects/OwinTest/OwinCore/bin/Debug/Owin.dll

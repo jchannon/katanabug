@@ -1,0 +1,34 @@
+\\vmware-host\Shared Folders\Projects\OwinTest\OwinCore\bin\Debug\OwinCore.dll
+\\vmware-host\Shared Folders\Projects\OwinTest\OwinCore\bin\Debug\OwinCore.pdb
+\\vmware-host\Shared Folders\Projects\OwinTest\OwinCore\bin\Debug\Microsoft.Owin.dll
+\\vmware-host\Shared Folders\Projects\OwinTest\OwinCore\bin\Debug\Microsoft.Owin.FileSystems.dll
+\\vmware-host\Shared Folders\Projects\OwinTest\OwinCore\bin\Debug\Microsoft.Owin.StaticFiles.dll
+\\vmware-host\Shared Folders\Projects\OwinTest\OwinCore\bin\Debug\Nancy.dll
+\\vmware-host\Shared Folders\Projects\OwinTest\OwinCore\bin\Debug\Nancy.Owin.dll
+\\vmware-host\Shared Folders\Projects\OwinTest\OwinCore\bin\Debug\Owin.dll
+\\vmware-host\Shared Folders\Projects\OwinTest\OwinCore\bin\Debug\Microsoft.Owin.xml
+\\vmware-host\Shared Folders\Projects\OwinTest\OwinCore\bin\Debug\Microsoft.Owin.FileSystems.xml
+\\vmware-host\Shared Folders\Projects\OwinTest\OwinCore\bin\Debug\Microsoft.Owin.StaticFiles.xml
+\\vmware-host\Shared Folders\Projects\OwinTest\OwinCore\bin\Debug\Nancy.xml
+\\vmware-host\Shared Folders\Projects\OwinTest\OwinCore\bin\Debug\Nancy.Owin.xml
+\\vmware-host\Shared Folders\Projects\OwinTest\OwinCore\obj\Debug\OwinCore.dll
+\\vmware-host\Shared Folders\Projects\OwinTest\OwinCore\obj\Debug\OwinCore.pdb
+\\vmware-host\Shared Folders\Projects\OwinTest\OwinCore\bin\Debug\static\main.js
+\\vmware-host\Shared Folders\Projects\OwinTest\OwinCore\obj\Debug\OwinCore.csprojResolveAssemblyReference.cache
+Z:\Projects\OwinTest\OwinCore\bin\Debug\static\main.js
+Z:\Projects\OwinTest\OwinCore\bin\Debug\OwinCore.dll
+Z:\Projects\OwinTest\OwinCore\bin\Debug\OwinCore.pdb
+Z:\Projects\OwinTest\OwinCore\bin\Debug\Microsoft.Owin.dll
+Z:\Projects\OwinTest\OwinCore\bin\Debug\Microsoft.Owin.FileSystems.dll
+Z:\Projects\OwinTest\OwinCore\bin\Debug\Microsoft.Owin.StaticFiles.dll
+Z:\Projects\OwinTest\OwinCore\bin\Debug\Nancy.dll
+Z:\Projects\OwinTest\OwinCore\bin\Debug\Nancy.Owin.dll
+Z:\Projects\OwinTest\OwinCore\bin\Debug\Owin.dll
+Z:\Projects\OwinTest\OwinCore\bin\Debug\Microsoft.Owin.xml
+Z:\Projects\OwinTest\OwinCore\bin\Debug\Microsoft.Owin.FileSystems.xml
+Z:\Projects\OwinTest\OwinCore\bin\Debug\Microsoft.Owin.StaticFiles.xml
+Z:\Projects\OwinTest\OwinCore\bin\Debug\Nancy.xml
+Z:\Projects\OwinTest\OwinCore\bin\Debug\Nancy.Owin.xml
+Z:\Projects\OwinTest\OwinCore\obj\Debug\OwinCore.dll
+Z:\Projects\OwinTest\OwinCore\obj\Debug\OwinCore.pdb
+Z:\Projects\OwinTest\OwinCore\obj\Debug\OwinCore.csprojResolveAssemblyReference.cache

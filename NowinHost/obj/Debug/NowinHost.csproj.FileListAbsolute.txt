@@ -1,0 +1,46 @@
+\\vmware-host\Shared Folders\Projects\OwinTest\NowinHost\bin\Debug\NowinHost.exe.config
+\\vmware-host\Shared Folders\Projects\OwinTest\NowinHost\bin\Debug\NowinHost.exe
+\\vmware-host\Shared Folders\Projects\OwinTest\NowinHost\bin\Debug\NowinHost.pdb
+\\vmware-host\Shared Folders\Projects\OwinTest\NowinHost\bin\Debug\Microsoft.Owin.dll
+\\vmware-host\Shared Folders\Projects\OwinTest\NowinHost\bin\Debug\Microsoft.Owin.Hosting.dll
+\\vmware-host\Shared Folders\Projects\OwinTest\NowinHost\bin\Debug\Nowin.dll
+\\vmware-host\Shared Folders\Projects\OwinTest\NowinHost\bin\Debug\Owin.dll
+\\vmware-host\Shared Folders\Projects\OwinTest\NowinHost\bin\Debug\OwinCore.dll
+\\vmware-host\Shared Folders\Projects\OwinTest\NowinHost\bin\Debug\Nancy.dll
+\\vmware-host\Shared Folders\Projects\OwinTest\NowinHost\bin\Debug\Microsoft.Owin.StaticFiles.dll
+\\vmware-host\Shared Folders\Projects\OwinTest\NowinHost\bin\Debug\Microsoft.Owin.FileSystems.dll
+\\vmware-host\Shared Folders\Projects\OwinTest\NowinHost\bin\Debug\Nancy.Owin.dll
+\\vmware-host\Shared Folders\Projects\OwinTest\NowinHost\bin\Debug\OwinCore.pdb
+\\vmware-host\Shared Folders\Projects\OwinTest\NowinHost\bin\Debug\Microsoft.Owin.xml
+\\vmware-host\Shared Folders\Projects\OwinTest\NowinHost\bin\Debug\Microsoft.Owin.Hosting.xml
+\\vmware-host\Shared Folders\Projects\OwinTest\NowinHost\bin\Debug\Nancy.xml
+\\vmware-host\Shared Folders\Projects\OwinTest\NowinHost\bin\Debug\Microsoft.Owin.StaticFiles.xml
+\\vmware-host\Shared Folders\Projects\OwinTest\NowinHost\bin\Debug\Microsoft.Owin.FileSystems.xml
+\\vmware-host\Shared Folders\Projects\OwinTest\NowinHost\bin\Debug\Nancy.Owin.xml
+\\vmware-host\Shared Folders\Projects\OwinTest\NowinHost\obj\Debug\NowinHost.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Projects\OwinTest\NowinHost\obj\Debug\NowinHost.exe
+\\vmware-host\Shared Folders\Projects\OwinTest\NowinHost\obj\Debug\NowinHost.pdb
+\\vmware-host\Shared Folders\Projects\OwinTest\NowinHost\bin\Debug\static\main.js
+Z:\Projects\OwinTest\NowinHost\bin\Debug\static\main.js
+Z:\Projects\OwinTest\NowinHost\bin\Debug\NowinHost.exe.config
+Z:\Projects\OwinTest\NowinHost\bin\Debug\NowinHost.exe
+Z:\Projects\OwinTest\NowinHost\bin\Debug\NowinHost.pdb
+Z:\Projects\OwinTest\NowinHost\bin\Debug\Microsoft.Owin.dll
+Z:\Projects\OwinTest\NowinHost\bin\Debug\Microsoft.Owin.Hosting.dll
+Z:\Projects\OwinTest\NowinHost\bin\Debug\Nowin.dll
+Z:\Projects\OwinTest\NowinHost\bin\Debug\Owin.dll
+Z:\Projects\OwinTest\NowinHost\bin\Debug\OwinCore.dll
+Z:\Projects\OwinTest\NowinHost\bin\Debug\Nancy.dll
+Z:\Projects\OwinTest\NowinHost\bin\Debug\Microsoft.Owin.StaticFiles.dll
+Z:\Projects\OwinTest\NowinHost\bin\Debug\Microsoft.Owin.FileSystems.dll
+Z:\Projects\OwinTest\NowinHost\bin\Debug\Nancy.Owin.dll
+Z:\Projects\OwinTest\NowinHost\bin\Debug\OwinCore.pdb
+Z:\Projects\OwinTest\NowinHost\bin\Debug\Microsoft.Owin.xml
+Z:\Projects\OwinTest\NowinHost\bin\Debug\Microsoft.Owin.Hosting.xml
+Z:\Projects\OwinTest\NowinHost\bin\Debug\Nancy.xml
+Z:\Projects\OwinTest\NowinHost\bin\Debug\Microsoft.Owin.StaticFiles.xml
+Z:\Projects\OwinTest\NowinHost\bin\Debug\Microsoft.Owin.FileSystems.xml
+Z:\Projects\OwinTest\NowinHost\bin\Debug\Nancy.Owin.xml
+Z:\Projects\OwinTest\NowinHost\obj\Debug\NowinHost.csprojResolveAssemblyReference.cache
+Z:\Projects\OwinTest\NowinHost\obj\Debug\NowinHost.exe
+Z:\Projects\OwinTest\NowinHost\obj\Debug\NowinHost.pdb
