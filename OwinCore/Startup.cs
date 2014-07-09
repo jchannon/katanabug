@@ -16,7 +16,6 @@
     {
         public void Configuration(IAppBuilder app)
         {
-            var sds = GetFullRoot(Path.Combine(AssemblyDirectory, "static"));
             
             //app.Run(context => context.Response.WriteAsync("YO"));
             app
@@ -24,18 +23,6 @@
                 .Use(MyMiddleware.DoIt())
                 .UseNancy()
                 ;
-        }
-
-        private static string GetFullRoot(string root)
-        {
-            var applicationBase = AppDomain.CurrentDomain.SetupInformation.ApplicationBase;
-            var fullRoot = Path.GetFullPath(Path.Combine(applicationBase, root));
-            if (!fullRoot.EndsWith(Path.DirectorySeparatorChar.ToString(), StringComparison.Ordinal))
-            {
-                // When we do matches in GetFullPath, we want to only match full directory names.
-                fullRoot += Path.DirectorySeparatorChar;
-            }
-            return fullRoot;
         }
 
         static public string AssemblyDirectory
